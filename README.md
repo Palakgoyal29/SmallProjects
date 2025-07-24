@@ -1,2 +1,2 @@
 # SmallProjects
-Html , Css and js projects
+Simple cv using html
