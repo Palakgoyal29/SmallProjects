@@ -1,3 +1,3 @@
 # SmallProjects
-Simple cv using html
-url:https://github.com/Palakgoyal29/SmallProjects/blob/main/index.html
+Simple cv using html<br>
+url:https://roadmap.sh/projects/single-page-cv
